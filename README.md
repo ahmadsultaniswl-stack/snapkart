@@ -81,4 +81,4 @@ flutter run
 **Saie Ahmad**
 Flutter Mobile App Developer
 📧 ahmadsultaniswl@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad-flutter)<img width="576" height="1280" alt="WhatsApp Image 2026-09-09 at 10 43 40 PM" src="https://github.com/user-attachments/assets/8a1db540-5667-4f6d-be88-3db10629b25b" />
+🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad-flutter)
